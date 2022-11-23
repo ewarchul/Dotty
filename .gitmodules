@@ -1,0 +1,3 @@
+[submodule "extern/ea-dotty"]
+	path = extern/ea-dotty
+	url = https://github.com/ewarchul/ea-dotty.git
